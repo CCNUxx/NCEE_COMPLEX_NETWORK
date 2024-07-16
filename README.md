@@ -6,15 +6,15 @@ This project contains the data and source codes for the paper titled "xxxxxx".
 
 All the codes run perfectly on Python 3.10, and the libraries used are as follows:
 
-​	matplotlib      3.9.0
+​	matplotlib == 3.9.0
 
-​	networkx        3.3
+​	networkx == 3.3
 
-​	numpy           1.26.4
+​	numpy==1.26.4
 
-​	openpyxl        3.1.4
+​	openpyxl== 3.1.4
 
-​	pandas          2.2.2
+​	pandas== 2.2.2
 
 
 
