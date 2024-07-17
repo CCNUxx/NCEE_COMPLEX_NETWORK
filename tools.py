@@ -726,7 +726,6 @@ def GenER(data_dir, network_seed=1e2, numpy_seed=1e2):
         data_dir: Data Path
         network_seed: Random Graph Seed. Defaults to 1e2.
         numpy_seed: Edges Random Weights Seed. Defaults to 1e2.
-        In this paper, both the network_seed and numpy_seed for the ER-related results are set to 1e3.
     """
 
     name_list = os.listdir(data_dir)

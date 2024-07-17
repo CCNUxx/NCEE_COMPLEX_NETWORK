@@ -34,7 +34,7 @@ tools.GenTopoStructure(data_dir)
 # Degree Distribution
 tools.DegreeDistr(data_dir)
 
-# ER Random Model. In our study, both the network_seed and numpy_seed for the ER-related results are set to 1e3.
-tools.GenER(data_dir, network_seed=1e1, numpy_seed=1e1)
+# ER Random Model.
+tools.GenER(data_dir, network_seed=1e3, numpy_seed=1e3)
 
 print("end")
