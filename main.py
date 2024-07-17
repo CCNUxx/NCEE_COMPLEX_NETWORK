@@ -35,6 +35,6 @@ tools.GenTopoStructure(data_dir)
 tools.DegreeDistr(data_dir)
 
 # ER Random Model.
-tools.GenER(data_dir, network_seed=1e1, numpy_seed=1e1)
+tools.GenER(data_dir, network_seed=1e3, numpy_seed=1e3)
 
 print("end")
