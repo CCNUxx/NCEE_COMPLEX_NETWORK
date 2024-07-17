@@ -6,7 +6,7 @@ This project contains the data and source codes for the paper titled "xxxxxx".
 
 All the codes run perfectly on Python 3.10, and the libraries used are as follows:
 
-​		matplotlib==3.9.0
+​		matplotlib==3.9.1
 
 ​		networkx==3.3
 
