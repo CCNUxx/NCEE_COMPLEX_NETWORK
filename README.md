@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This project contains the data and source codes for the paper titled "xxxxxx".
+This project contains the data and source codes for the paper titled "How to quantify an examination? Evidence from
+physics examinations via complex networks".
 
 All the codes run perfectly on Python 3.10, and the libraries used are as follows:
 
@@ -26,4 +27,4 @@ All the data is stored in the "./data" folder. You just need to run the "main.py
 
 
 
-If you use any of the related data or codes, please please please cite this paper. ^ _＾
+If you use any of the related data or codes, please cite this paper. ^ _＾
