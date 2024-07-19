@@ -22,4 +22,4 @@ We do not guarantee normal operation on other versions.
 
 All the data is stored in the "./data" folder. You just need to run the "main.py" file. 
 
-If you use any of the related data or codes, please cite this paper. ^ _＾
+If you use any of the related data or codes, please cite this paper, the link is: arXiv:2407.13161 [physics.soc-ph]. ^ _＾
