@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project contains the data and source codes for the paper titled "How to quantify an examination? Evidence from physics examinations via complex networks".
+This project contains source code and some core data for the paper titled "How to quantify an examination? Evidence from physics examinations via complex networks".
 
 All the codes run perfectly on Python 3.10, and the libraries used are as follows:
 
